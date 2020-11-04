@@ -1,0 +1,11 @@
+friend name
+group name
+
+delete all the content and write person name or group name line by line without leaving empty line
+
+eg 
+babu
+class grooup
+frind group
+adhi
+ron 
