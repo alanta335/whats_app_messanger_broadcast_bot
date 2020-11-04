@@ -30,3 +30,5 @@ for line in f.readlines():
     for i in range(1): 
         input_box.send_keys(string + Keys.ENTER) 
         time.sleep(1) 
+
+# ALANTA335
